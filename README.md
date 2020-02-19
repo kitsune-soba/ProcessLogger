@@ -43,5 +43,5 @@ ProcessLogger.exe と、コマンドを記述したバッチファイルをセ�
 同じ理由で、ProcessLogger の多重起動もしないこと。
 
 ---
-<sup name="note_DebugOutput">1</sup> [OutputDebugStinrg](https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-outputdebugstringw) などによる DBWIN_BUFFER への出力を指す。
+<sup name="note_DebugOutput">1</sup> [OutputDebugStinrg](https://docs.microsoft.com/en-us/windows/win32/api/debugapi/nf-debugapi-outputdebugstringw) などによる DBWIN_BUFFER への出力を指す。  
 <sup name="note_DebugTool">2</sup> [DebugView](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview) など。
