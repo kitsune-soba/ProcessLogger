@@ -1,6 +1,7 @@
 #ifndef PROCESS_LOGGER_DEBUG_STRING_READER_HPP_
 #define PROCESS_LOGGER_DEBUG_STRING_READER_HPP_
 
+#include <stdexcept>
 #include <string>
 #include <Windows.h>
 
